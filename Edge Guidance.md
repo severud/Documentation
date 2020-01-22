@@ -1,8 +1,3 @@
----
-
-
----
-
 <h1 id="microsoft-edge-guidance---january-2020">Microsoft Edge Guidance - January 2020</h1>
 <h2 id="situation">Situation</h2>
 <h3 id="microsoft-has-released-a-major-update-to-edge-on-windows-10-and-made-edge-available-to-windows-7">Microsoft has released a major update to Edge on Windows 10 and made Edge available to Windows 7</h3>
