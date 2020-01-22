@@ -1,6 +1,5 @@
 ---
-extensions:
-  preset: gfm
+
 
 ---
 
@@ -16,7 +15,7 @@ The new version of Microsoft Edge, released on January 15, 2020 beginning with v
 <h2 id="assessment">Assessment</h2>
 <h3 id="internet-explorer-ie-is-not-replaced.">Internet Explorer (IE) is not replaced.</h3>
 <p><img src="https://prabidhi.info/wp-content/uploads/2019/11/microsoft-edge-old-logo-new-logo-e1572852302325-696x285.png" alt="enter image description here"><br>
-The new Microsoft Edge replaces <em>Legacy Edge</em> on Windows 10. This new version of Edge is based on Google's open source Chromium project, to which Microsoft is a contributor, and which is used in Google Chrome.<br>
+The new Microsoft Edge replaces <em>Legacy Edge</em> on Windows 10. This new version of Edge is based on Google’s open source Chromium project, to which Microsoft is a contributor, and which is used in Google Chrome.<br>
 On Windows 7 there was no previous version of Edge so Edge is installed alongside IE.</p>
 <h3 id="legacy-websites-flash-java--silverlight-are-handled-by-ie">Legacy websites, Flash, Java, &amp; Silverlight are handled by IE</h3>
 <p><img src="https://lh3.googleusercontent.com/_Km3MdBqHdsEIPh1qIZ4UN4X7f1iAo-sDZSzo6eNU0MhBphwN6_gqPfnlt-92bHsPt2YIvjIY2w" alt="IE tab in Edge Windows 7"><br>
