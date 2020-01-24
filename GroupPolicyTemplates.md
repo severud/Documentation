@@ -21,13 +21,18 @@
 </tr>
 <tr>
 <td>Citrix</td>
-<td>Receiver</td>
-<td align="right">?</td>
+<td><a href="https://www.citrix.com/downloads/citrix-receiver/legacy-receiver-for-windows-ltsr/">Receiver</a></td>
+<td align="right">4.9.8000</td>
+</tr>
+<tr>
+<td>Citrix</td>
+<td><a href="https://www.citrix.com/downloads/workspace-app/">Workspace</a></td>
+<td align="right">1911</td>
 </tr>
 <tr>
 <td>Google</td>
 <td><a href="https://cloud.google.com/chrome-enterprise/browser/download/#chrome-browser-policies">Chrome</a></td>
-<td align="right">?</td>
+<td align="right">79.0.3945.130</td>
 </tr>
 <tr>
 <td>Google</td>
@@ -36,7 +41,12 @@
 </tr>
 <tr>
 <td>Microsoft</td>
-<td><a href="(https://www.microsoft.com/en-us/edge/business/download)">Edge</a></td>
+<td><a href="https://docs.microsoft.com/en-us/fslogix/install-ht">FSLogix</a></td>
+<td align="right">2.9.7237.48865</td>
+</tr>
+<tr>
+<td>Microsoft</td>
+<td><a href="https://docs.microsoft.com/en-us/fslogix/install-ht#download-fslogix">Edge</a></td>
 <td align="right">79.0.309.71</td>
 </tr>
 <tr>
