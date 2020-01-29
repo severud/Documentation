@@ -1,4 +1,5 @@
 <h1 id="group-policy-templates">Group Policy Templates</h1>
+<h2 id="managed">Managed</h2>
 
 <table>
 <thead>
@@ -23,11 +24,6 @@
 <td>Citrix</td>
 <td align="left"><a href="https://www.citrix.com/downloads/citrix-receiver/legacy-receiver-for-windows-ltsr/">Receiver</a></td>
 <td align="right">4.9.8000</td>
-</tr>
-<tr>
-<td>Citrix</td>
-<td align="left"><a href="https://www.citrix.com/downloads/workspace-app/">Workspace</a></td>
-<td align="right">1911</td>
 </tr>
 <tr>
 <td>Google</td>
@@ -68,6 +64,33 @@
 <td>Microsoft</td>
 <td align="left">PowerShell 7</td>
 <td align="right">?</td>
+</tr>
+</tbody>
+</table><h2 id="not-managed">Not managed</h2>
+
+<table>
+<thead>
+<tr>
+<th>Publisher</th>
+<th align="left">Product</th>
+<th align="right">Version</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Citrix</td>
+<td align="left"><a href="https://www.citrix.com/downloads/workspace-app/">Workspace</a></td>
+<td align="right">1911</td>
+</tr>
+<tr>
+<td>HP</td>
+<td align="left">Managed Print Policies</td>
+<td align="right">1.8.3</td>
+</tr>
+<tr>
+<td>Mozilla</td>
+<td align="left"><a href="https://github.com/mozilla/policy-templates/releases">Firefox</a></td>
+<td align="right">1.12</td>
 </tr>
 </tbody>
 </table>
