@@ -57,7 +57,7 @@
 </tr>
 <tr>
 <td>Microsoft</td>
-<td align="left"><a href="https://docs.microsoft.com/en-us/onedrive/per-machine-installation">OneDrive</a></td>
+<td align="left"><a href="https://support.office.com/en-us/article/onedrive-release-notes-845dcf18-f921-435e-bf28-4e24b95e5fc0">OneDrive</a></td>
 <td align="right">19.222.1110.0006</td>
 </tr>
 <tr>
