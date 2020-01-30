@@ -37,12 +37,12 @@
 </tr>
 <tr>
 <td>Microsoft</td>
-<td align="left"><a href="https://docs.microsoft.com/en-us/fslogix/install-ht">FSLogix</a></td>
+<td align="left"><a href="https://docs.microsoft.com/en-us/fslogix/install-ht#download-fslogix">FSLogix</a></td>
 <td align="right">2.9.7237.48865</td>
 </tr>
 <tr>
 <td>Microsoft</td>
-<td align="left"><a href="https://docs.microsoft.com/en-us/fslogix/install-ht#download-fslogix">Edge</a></td>
+<td align="left"><a href="https://www.microsoft.com/en-us/edge/business/download">Edge</a></td>
 <td align="right">79.0.309.71</td>
 </tr>
 <tr>
