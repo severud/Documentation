@@ -62,7 +62,7 @@
 </tr>
 <tr>
 <td>Microsoft</td>
-<td align="left">PowerShell 7</td>
+<td align="left"><a href="https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_group_policy_settings?view=powershell-7">PowerShell 7</a></td>
 <td align="right">?</td>
 </tr>
 </tbody>
