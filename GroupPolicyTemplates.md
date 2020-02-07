@@ -38,12 +38,12 @@
 <tr>
 <td>Microsoft</td>
 <td align="left"><a href="https://docs.microsoft.com/en-us/fslogix/install-ht#download-fslogix">FSLogix</a></td>
-<td align="right">2.9.7237.48865</td>
+<td align="right"><a href="https://download.microsoft.com/download/3/d/d/3ddfe262-56c7-496c-9af6-82602d2d7b5d/FSLogix_Apps_2.9.7237.48865.zip">2.9.7237.48865</a></td>
 </tr>
 <tr>
 <td>Microsoft</td>
 <td align="left"><a href="https://www.microsoft.com/en-us/edge/business/download">Edge</a></td>
-<td align="right">79.0.309.71</td>
+<td align="right"><a href="http://dl.delivery.mp.microsoft.com/filestreamingservice/files/3dfff0d9-ceaa-4015-9a1a-9c03d256a5d6/MicrosoftEdgePolicyTemplates.cab">80.0.361.48</a></td>
 </tr>
 <tr>
 <td>Microsoft</td>
