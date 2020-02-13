@@ -7,6 +7,7 @@
 <th>Publisher</th>
 <th align="left">Product</th>
 <th align="right">Version</th>
+<th>Date</th>
 </tr>
 </thead>
 <tbody>
@@ -14,56 +15,67 @@
 <td>Adobe</td>
 <td align="left">Acrobat</td>
 <td align="right">?</td>
+<td></td>
 </tr>
 <tr>
 <td>Adobe</td>
 <td align="left">Reader</td>
 <td align="right">?</td>
+<td></td>
 </tr>
 <tr>
 <td>Citrix</td>
 <td align="left"><a href="https://www.citrix.com/downloads/citrix-receiver/legacy-receiver-for-windows-ltsr/">Receiver</a></td>
 <td align="right">4.9.8000</td>
+<td></td>
 </tr>
 <tr>
 <td>Google</td>
 <td align="left"><a href="https://cloud.google.com/chrome-enterprise/browser/download/#chrome-browser-policies">Chrome</a></td>
-<td align="right"><a href="https://dl.google.com/dl/edgedl/chrome/policy/policy_templates.zip">80.0.3987.87</a> <a href="https://support.google.com/chrome/a/answer/7679408/">(Release Notes)</a></td>
+<td align="right"><a href="https://dl.google.com/dl/edgedl/chrome/policy/policy_templates.zip">80.0.3987.106</a></td>
+<td>2020.02.13</td>
 </tr>
 <tr>
 <td>Google</td>
 <td align="left"><a href="https://cloud.google.com/chrome-enterprise/browser/download/#chrome-browser-policies">Updater</a></td>
 <td align="right">?</td>
+<td></td>
 </tr>
 <tr>
 <td>Microsoft</td>
 <td align="left"><a href="https://docs.microsoft.com/en-us/fslogix/install-ht#download-fslogix">FSLogix</a></td>
-<td align="right"><a href="https://download.microsoft.com/download/3/d/d/3ddfe262-56c7-496c-9af6-82602d2d7b5d/FSLogix_Apps_2.9.7237.48865.zip">2.9.7237.48865</a></td>
+<td align="right"><a href="https://aka.ms/fslogix_download">2.9.7237.48865</a></td>
+<td>2019.11.22</td>
 </tr>
 <tr>
 <td>Microsoft</td>
 <td align="left"><a href="https://www.microsoft.com/en-us/edge/business/download">Edge</a></td>
 <td align="right"><a href="http://dl.delivery.mp.microsoft.com/filestreamingservice/files/9c98a9b8-54bf-4f15-a9df-02d52a0acd10/MicrosoftEdgePolicyTemplates.cab">80.0.361.50</a></td>
+<td>2020.02.10</td>
 </tr>
 <tr>
 <td>Microsoft</td>
 <td align="left"><a href="https://www.microsoft.com/en-us/download/details.aspx?id=46899">LAPS</a></td>
-<td align="right">6.2</td>
+<td align="right"><a href="https://www.microsoft.com/en-us/download/confirmation.aspx?id=46899">6.2</a></td>
+<td>2018.06.07</td>
 </tr>
 <tr>
 <td>Microsoft</td>
 <td align="left"><a href="https://www.microsoft.com/en-us/download/details.aspx?id=49030">Office 365 ProPlus</a></td>
-<td align="right">4966.1000</td>
+<td align="right"><a href="https://www.microsoft.com/en-us/download/confirmation.aspx?id=49030">4966.1000</a></td>
+<td>2020.01.22</td>
 </tr>
 <tr>
 <td>Microsoft</td>
 <td align="left"><a href="https://support.office.com/en-us/article/onedrive-release-notes-845dcf18-f921-435e-bf28-4e24b95e5fc0">OneDrive</a></td>
-<td align="right">19.222.1110.0006</td>
+<td align="right"><a href="https://go.microsoft.com/fwlink/?linkid=844652">19.232.1124.0005</a></td>
+<td>2020.02.01</td>
 </tr>
 <tr>
 <td>Microsoft</td>
 <td align="left"><a href="https://www.verboon.info/2019/12/powershell-7-group-policy-settings-and-eventlogs/">PowerShell 7</a></td>
 <td align="right">?</td>
+<td></td>
 </tr>
 </tbody>
 </table><h2 id="not-managed">Not managed</h2>
