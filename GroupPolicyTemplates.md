@@ -28,7 +28,7 @@
 <tr>
 <td>Google</td>
 <td align="left"><a href="https://cloud.google.com/chrome-enterprise/browser/download/#chrome-browser-policies">Chrome</a></td>
-<td align="right">80.0.3987.87</td>
+<td align="right"><a href="https://dl.google.com/dl/edgedl/chrome/policy/policy_templates.zip">80.0.3987.87</a> <a href="https://support.google.com/chrome/a/answer/7679408/">(Release Notes)</a></td>
 </tr>
 <tr>
 <td>Google</td>
