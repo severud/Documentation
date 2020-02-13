@@ -28,7 +28,7 @@
 <tr>
 <td>Google</td>
 <td align="left"><a href="https://cloud.google.com/chrome-enterprise/browser/download/#chrome-browser-policies">Chrome</a></td>
-<td align="right">79.0.3945.130</td>
+<td align="right">80.0.3987.87</td>
 </tr>
 <tr>
 <td>Google</td>
@@ -43,7 +43,7 @@
 <tr>
 <td>Microsoft</td>
 <td align="left"><a href="https://www.microsoft.com/en-us/edge/business/download">Edge</a></td>
-<td align="right"><a href="http://dl.delivery.mp.microsoft.com/filestreamingservice/files/3dfff0d9-ceaa-4015-9a1a-9c03d256a5d6/MicrosoftEdgePolicyTemplates.cab">80.0.361.48</a></td>
+<td align="right"><a href="http://dl.delivery.mp.microsoft.com/filestreamingservice/files/9c98a9b8-54bf-4f15-a9df-02d52a0acd10/MicrosoftEdgePolicyTemplates.cab">80.0.361.50</a></td>
 </tr>
 <tr>
 <td>Microsoft</td>
