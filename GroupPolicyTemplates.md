@@ -50,8 +50,8 @@
 <tr>
 <td>Microsoft</td>
 <td align="left"><a href="https://www.microsoft.com/en-us/edge/business/download">Edge</a></td>
-<td align="right"><a href="http://dl.delivery.mp.microsoft.com/filestreamingservice/files/9c98a9b8-54bf-4f15-a9df-02d52a0acd10/MicrosoftEdgePolicyTemplates.cab">80.0.361.50</a></td>
-<td>2020.02.10</td>
+<td align="right"><a href="http://dl.delivery.mp.microsoft.com/filestreamingservice/files/f599a631-bb0d-456d-94de-5c94d4316d4c/MicrosoftEdgePolicyTemplates.cab">80.0.361.56</a></td>
+<td>2020.02.14</td>
 </tr>
 <tr>
 <td>Microsoft</td>
