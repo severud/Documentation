@@ -13,15 +13,15 @@
 <tbody>
 <tr>
 <td>Adobe</td>
-<td align="left">Acrobat</td>
+<td align="left"><a href="https://www.adobe.com/devnet-docs/acrobatetk/tools/DesktopDeployment/gpo.html">Acrobat</a></td>
 <td align="right">?</td>
-<td></td>
+<td>n/a</td>
 </tr>
 <tr>
 <td>Adobe</td>
-<td align="left">Reader</td>
+<td align="left"><a href="https://www.adobe.com/devnet-docs/acrobatetk/tools/DesktopDeployment/gpo.html">Reader</a></td>
 <td align="right">?</td>
-<td></td>
+<td>n/a</td>
 </tr>
 <tr>
 <td>Citrix</td>
