@@ -26,8 +26,8 @@
 <tr>
 <td>Citrix</td>
 <td align="left"><a href="https://www.citrix.com/downloads/citrix-receiver/legacy-receiver-for-windows-ltsr/">Receiver</a></td>
-<td align="right">4.9.8000</td>
-<td></td>
+<td align="right"><a href="https://downloads.citrix.com/16906/Receiver_ADMX_ADML_Files.zip?__gda__=1581724447_d6cdc2ed25b1bb9382273a22d6983702">4.9.9000</a></td>
+<td>20191204</td>
 </tr>
 <tr>
 <td>Google</td>
