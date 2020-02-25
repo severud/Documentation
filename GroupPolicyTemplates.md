@@ -74,8 +74,8 @@
 <tr>
 <td>Microsoft</td>
 <td align="left"><a href="https://www.verboon.info/2019/12/powershell-7-group-policy-settings-and-eventlogs/">PowerShell 7 Preview</a></td>
-<td align="right">7.0.0.2</td>
-<td>2020.01.21</td>
+<td align="right">7.0.0.3</td>
+<td>2020.02.24</td>
 </tr>
 </tbody>
 </table><h2 id="not-managed">Not managed</h2>
