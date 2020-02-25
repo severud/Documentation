@@ -68,14 +68,14 @@
 <tr>
 <td>Microsoft</td>
 <td align="left"><a href="https://support.office.com/en-us/article/onedrive-release-notes-845dcf18-f921-435e-bf28-4e24b95e5fc0">OneDrive</a></td>
-<td align="right"><a href="https://go.microsoft.com/fwlink/?linkid=844652">19.232.1124.0005</a></td>
-<td>2020.02.01</td>
+<td align="right"><a href="https://go.microsoft.com/fwlink/?linkid=844652">19.232.1124.0008</a></td>
+<td>2020.02.13</td>
 </tr>
 <tr>
 <td>Microsoft</td>
-<td align="left"><a href="https://www.verboon.info/2019/12/powershell-7-group-policy-settings-and-eventlogs/">PowerShell 7</a></td>
-<td align="right">?</td>
-<td></td>
+<td align="left"><a href="https://www.verboon.info/2019/12/powershell-7-group-policy-settings-and-eventlogs/">PowerShell 7 Preview</a></td>
+<td align="right">7.0.0.2</td>
+<td>2020.01.21</td>
 </tr>
 </tbody>
 </table><h2 id="not-managed">Not managed</h2>
