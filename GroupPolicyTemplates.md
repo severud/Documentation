@@ -105,5 +105,5 @@
 <td align="right">1.12</td>
 </tr>
 </tbody>
-</table><p>Maintained by Kevin using <a href="https://stackedit.io/">StackEdit</a> ;-)</p>
+</table><p>Maintained by <em>Kevin</em> using <a href="https://stackedit.io/">StackEdit</a> ;-)</p>
 
