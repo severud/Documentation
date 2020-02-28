@@ -111,7 +111,7 @@
 <td align="left">Microsoft</td>
 <td align="left"><a href="https://www.microsoft.com/en-us/download/details.aspx?id=49117">Office Deployment Tool</a></td>
 <td align="right"><a href="https://www.microsoft.com/en-us/download/confirmation.aspx?id=49117">16.0.12325.20288</a></td>
-<td align="right"></td>
+<td align="right"><a href="https://docs.microsoft.com/en-us/officeupdates/odt-release-history">2020.01.16</a></td>
 </tr>
 </tbody>
 </table><h2 id="foundational">Foundational</h2>
@@ -136,7 +136,7 @@
 <td align="left">Sophos</td>
 <td align="left">Network Threat Protection</td>
 <td align="right">1.8.77.0</td>
-<td align="right">20191115</td>
+<td align="right">2019.11.15</td>
 </tr>
 <tr>
 <td align="left">Sophos</td>
