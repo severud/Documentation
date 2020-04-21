@@ -99,14 +99,14 @@
 <tr>
 <td>HP</td>
 <td align="left"><a href="https://support.hp.com/us-en/drivers/selfservice/hp-managed-printing-administration/3203927">Managed Print Policies</a></td>
-<td align="right"><a href="https://ftp.hp.com/pub/softlib/software13/COL40860/ds-99433-24/HP-PARK-v1.8.8.zip">1.8.8</a></td>
+<td align="right"><a href="https://ftp.hp.com/pub/softlib/software13/COL40860/ds-99433-24/HP-PARK-v1.8.8.zip">1.8.8</a> - ADMX version 4.5.0</td>
 <td align="right">2020.12.01</td>
 </tr>
 <tr>
 <td>Mozilla</td>
 <td align="left"><a href="https://github.com/mozilla/policy-templates/releases">Firefox</a></td>
-<td align="right">1.12</td>
-<td align="right"></td>
+<td align="right">1.15</td>
+<td align="right">2020.04.08</td>
 </tr>
 <tr>
 <td>Zoom</td>
