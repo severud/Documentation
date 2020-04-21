@@ -32,8 +32,8 @@
 <tr>
 <td>Google</td>
 <td align="left"><a href="https://cloud.google.com/chrome-enterprise/browser/download/#chrome-browser-policies">Chrome</a></td>
-<td align="right"><a href="https://dl.google.com/dl/edgedl/chrome/policy/policy_templates.zip">80.0.3987.106</a></td>
-<td>2020.02.13</td>
+<td align="right"><a href="https://dl.google.com/dl/edgedl/chrome/policy/policy_templates.zip">81.0.4044.113</a></td>
+<td>2020.04.15</td>
 </tr>
 <tr>
 <td>Google</td>
@@ -50,8 +50,8 @@
 <tr>
 <td>Microsoft</td>
 <td align="left"><a href="https://www.microsoft.com/en-us/edge/business/download">Edge</a></td>
-<td align="right"><a href="http://dl.delivery.mp.microsoft.com/filestreamingservice/files/f599a631-bb0d-456d-94de-5c94d4316d4c/MicrosoftEdgePolicyTemplates.cab">80.0.361.56</a></td>
-<td>2020.02.14</td>
+<td align="right"><a href="http://dl.delivery.mp.microsoft.com/filestreamingservice/files/7ea295fb-7cba-4e7e-83dd-a15958a1d4e6/MicrosoftEdgePolicyTemplates.cab">81.0.416.58</a></td>
+<td>2020.04.17</td>
 </tr>
 <tr>
 <td>Microsoft</td>
@@ -62,20 +62,20 @@
 <tr>
 <td>Microsoft</td>
 <td align="left"><a href="https://www.microsoft.com/en-us/download/details.aspx?id=49030">Office 365 ProPlus</a></td>
-<td align="right"><a href="https://www.microsoft.com/en-us/download/confirmation.aspx?id=49030">4966.1000</a></td>
-<td>2020.01.22</td>
+<td align="right"><a href="https://www.microsoft.com/en-us/download/confirmation.aspx?id=49030">5002.1000</a></td>
+<td>2020.04.09</td>
 </tr>
 <tr>
 <td>Microsoft</td>
 <td align="left"><a href="https://support.office.com/en-us/article/onedrive-release-notes-845dcf18-f921-435e-bf28-4e24b95e5fc0">OneDrive</a></td>
-<td align="right"><a href="https://go.microsoft.com/fwlink/?linkid=844652">19.232.1124.0008</a></td>
-<td>2020.02.13</td>
+<td align="right"><a href="https://go.microsoft.com/fwlink/?linkid=844652">Version 2020 (Build 19.232.1124.0012)</a></td>
+<td>2020.04.03</td>
 </tr>
 <tr>
 <td>Microsoft</td>
-<td align="left"><a href="https://www.verboon.info/2019/12/powershell-7-group-policy-settings-and-eventlogs/">PowerShell 7 Preview</a></td>
-<td align="right">7.0.0.3</td>
-<td>2020.02.24</td>
+<td align="left"><a href="https://www.verboon.info/2019/12/powershell-7-group-policy-settings-and-eventlogs/">PowerShell 7</a></td>
+<td align="right">7.0.0</td>
+<td>2020.03.03</td>
 </tr>
 </tbody>
 </table><h2 id="not-managed">Not managed</h2>
@@ -86,23 +86,33 @@
 <th>Publisher</th>
 <th align="left">Product</th>
 <th align="right">Version</th>
+<th align="right">Date</th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td>Citrix</td>
-<td align="left"><a href="https://www.citrix.com/downloads/workspace-app/">Workspace</a></td>
-<td align="right">1911</td>
+<td align="left"><a href="https://www.citrix.com/downloads/workspace-app/windows/workspace-app-for-windows-latest.html">Workspace</a></td>
+<td align="right">2002</td>
+<td align="right">2020.03.24</td>
 </tr>
 <tr>
 <td>HP</td>
 <td align="left">Managed Print Policies</td>
 <td align="right">1.8.3</td>
+<td align="right"></td>
 </tr>
 <tr>
 <td>Mozilla</td>
 <td align="left"><a href="https://github.com/mozilla/policy-templates/releases">Firefox</a></td>
 <td align="right">1.12</td>
+<td align="right"></td>
+</tr>
+<tr>
+<td>Zoom</td>
+<td align="left"><a href="https://support.zoom.us/hc/en-us/articles/360039100051">Zoom Client</a></td>
+<td align="right"><a href="https://support.zoom.us/hc/en-us/article_attachments/360047960212/Zoom_4.6.0.zip">4.6.0</a></td>
+<td align="right">2020.01.09</td>
 </tr>
 </tbody>
 </table><p>Maintained by <em>Kevin</em> using <a href="https://stackedit.io/">StackEdit</a> ;-)</p>
