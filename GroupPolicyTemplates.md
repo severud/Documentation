@@ -68,7 +68,7 @@
 <tr>
 <td>Microsoft</td>
 <td align="left"><a href="https://support.office.com/en-us/article/onedrive-release-notes-845dcf18-f921-435e-bf28-4e24b95e5fc0">OneDrive</a></td>
-<td align="right"><a href="https://go.microsoft.com/fwlink/?linkid=844652">Version 2020 (Build 19.232.1124.0012)</a></td>
+<td align="right"><a href="https://go.microsoft.com/fwlink/?linkid=844652">Version 2020</a> 19.232.1124.0012</td>
 <td>2020.04.03</td>
 </tr>
 <tr>
@@ -99,7 +99,7 @@
 <tr>
 <td>HP</td>
 <td align="left"><a href="https://support.hp.com/us-en/drivers/selfservice/hp-managed-printing-administration/3203927">Managed Print Policies</a></td>
-<td align="right"><a href="https://ftp.hp.com/pub/softlib/software13/COL40860/ds-99433-24/HP-PARK-v1.8.8.zip">1.8.8</a> - ADMX version 4.5.0</td>
+<td align="right"><a href="https://ftp.hp.com/pub/softlib/software13/COL40860/ds-99433-24/HP-PARK-v1.8.8.zip">1.8.8</a> : 4.5.0</td>
 <td align="right">2020.12.01</td>
 </tr>
 <tr>
