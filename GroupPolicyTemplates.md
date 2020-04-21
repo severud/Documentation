@@ -93,14 +93,14 @@
 <tr>
 <td>Citrix</td>
 <td align="left"><a href="https://www.citrix.com/downloads/workspace-app/windows/workspace-app-for-windows-latest.html">Workspace</a></td>
-<td align="right">2002</td>
+<td align="right"><a href="https://downloads.citrix.com/17600/CitrixWorkspace_ADMX_Files_2002.zip?__gda__=1587495883_01f4a35105e8613c61b212bf92ad1f86">2002</a></td>
 <td align="right">2020.03.24</td>
 </tr>
 <tr>
 <td>HP</td>
-<td align="left">Managed Print Policies</td>
-<td align="right">1.8.3</td>
-<td align="right"></td>
+<td align="left"><a href="https://support.hp.com/us-en/drivers/selfservice/hp-managed-printing-administration/3203927">Managed Print Policies</a></td>
+<td align="right"><a href="https://ftp.hp.com/pub/softlib/software13/COL40860/ds-99433-24/HP-PARK-v1.8.8.zip">1.8.8</a></td>
+<td align="right">2020.12.01</td>
 </tr>
 <tr>
 <td>Mozilla</td>
