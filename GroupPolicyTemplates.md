@@ -30,6 +30,12 @@
 <td>2019.12.04</td>
 </tr>
 <tr>
+<td>Citrix</td>
+<td align="left"><a href="https://www.citrix.com/downloads/workspace-app/">Workspace LTSR</a></td>
+<td align="right"><a href="https://www.citrix.com/downloads/workspace-app/windows/workspace-app-for-windows-1912ltsr.html">1912</a></td>
+<td>2020.03.24</td>
+</tr>
+<tr>
 <td>Google</td>
 <td align="left"><a href="https://cloud.google.com/chrome-enterprise/browser/download/#chrome-browser-policies">Chrome</a></td>
 <td align="right"><a href="https://dl.google.com/dl/edgedl/chrome/policy/policy_templates.zip">81.0.4044.113</a></td>
@@ -44,8 +50,8 @@
 <tr>
 <td>Microsoft</td>
 <td align="left"><a href="https://docs.microsoft.com/en-us/fslogix/install-ht#download-fslogix">FSLogix</a></td>
-<td align="right"><a href="https://aka.ms/fslogix_download">2.9.7237.48865</a></td>
-<td>2019.11.22</td>
+<td align="right"><a href="https://aka.ms/fslogix_download">2.9.7349.30108</a></td>
+<td>2020.02.14</td>
 </tr>
 <tr>
 <td>Microsoft</td>
@@ -62,8 +68,8 @@
 <tr>
 <td>Microsoft</td>
 <td align="left"><a href="https://www.microsoft.com/en-us/download/details.aspx?id=49030">Office 365 ProPlus</a></td>
-<td align="right"><a href="https://www.microsoft.com/en-us/download/confirmation.aspx?id=49030">5002.1000</a></td>
-<td>2020.04.09</td>
+<td align="right"><a href="https://www.microsoft.com/en-us/download/confirmation.aspx?id=49030">5014.1000</a></td>
+<td>2020.05.12</td>
 </tr>
 <tr>
 <td>Microsoft</td>
@@ -105,14 +111,14 @@
 <tr>
 <td>Mozilla</td>
 <td align="left"><a href="https://github.com/mozilla/policy-templates/releases">Firefox</a></td>
-<td align="right">1.15</td>
-<td align="right">2020.04.08</td>
+<td align="right"><a href="https://github.com/mozilla/policy-templates/releases/download/v1.16/policy_templates_v1.16.zip">1.16</a></td>
+<td align="right">2020.05.05</td>
 </tr>
 <tr>
 <td>Zoom</td>
 <td align="left"><a href="https://support.zoom.us/hc/en-us/articles/360039100051">Zoom Client</a></td>
-<td align="right"><a href="https://support.zoom.us/hc/en-us/article_attachments/360047960212/Zoom_4.6.0.zip">4.6.0</a></td>
-<td align="right">2020.01.09</td>
+<td align="right"><a href="https://assets.zoom.us/docs/msi-templates/Zoom_5.0.0.zip">5.0.0</a></td>
+<td align="right">2020.04.30</td>
 </tr>
 </tbody>
 </table><p>Maintained by <em>Kevin</em> using <a href="https://stackedit.io/">StackEdit</a> ;-)</p>
