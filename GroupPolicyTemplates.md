@@ -56,8 +56,8 @@
 <tr>
 <td>Microsoft</td>
 <td align="left"><a href="https://www.microsoft.com/en-us/edge/business/download">Edge</a></td>
-<td align="right"><a href="http://dl.delivery.mp.microsoft.com/filestreamingservice/files/7ea295fb-7cba-4e7e-83dd-a15958a1d4e6/MicrosoftEdgePolicyTemplates.cab">81.0.416.58</a></td>
-<td>2020.04.17</td>
+<td align="right"><a href="http://dl.delivery.mp.microsoft.com/filestreamingservice/files/a1b9d664-fafd-4fd4-bfef-02a28b8b76de/MicrosoftEdgePolicyTemplates.zip">83.0.478.37</a></td>
+<td>2020.05.20</td>
 </tr>
 <tr>
 <td>Microsoft</td>
@@ -68,14 +68,14 @@
 <tr>
 <td>Microsoft</td>
 <td align="left"><a href="https://www.microsoft.com/en-us/download/details.aspx?id=49030">Office 365 ProPlus</a></td>
-<td align="right"><a href="https://www.microsoft.com/en-us/download/confirmation.aspx?id=49030">5014.1000</a></td>
-<td>2020.05.12</td>
+<td align="right"><a href="https://www.microsoft.com/en-us/download/confirmation.aspx?id=49030">5017.1000</a></td>
+<td>2020.05.14</td>
 </tr>
 <tr>
 <td>Microsoft</td>
 <td align="left"><a href="https://support.office.com/en-us/article/onedrive-release-notes-845dcf18-f921-435e-bf28-4e24b95e5fc0">OneDrive</a></td>
-<td align="right"><a href="https://go.microsoft.com/fwlink/?linkid=844652">Version 2020</a> 19.232.1124.0012</td>
-<td>2020.04.03</td>
+<td align="right"><a href="https://go.microsoft.com/fwlink/?linkid=844652">20.052.0311.0011</a></td>
+<td>2020.04.30</td>
 </tr>
 <tr>
 <td>Microsoft</td>
